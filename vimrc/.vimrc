@@ -28,5 +28,6 @@ set shiftwidth=2
 set number relativenumber
 set nu rnu
 
-
+"highlight line with cursor
+set cursorline 
 
